@@ -1,0 +1,34 @@
+{
+  "name": "@aethel/tokens",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Design tokens for the Aethel Design System",
+  "type": "module",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "import": "./build/index.js",
+      "require": "./build/index.cjs"
+    },
+    "./css": "./build/tokens.css"
+  },
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "style-dictionary build",
+    "clean": "rm -rf build"
+  },
+  "devDependencies": {
+    "style-dictionary": "latest",
+    "typescript": "latest"
+  },
+  "keywords": [
+    "design-tokens",
+    "design-system",
+    "style-dictionary"
+  ],
+  "license": "MIT"
+}
