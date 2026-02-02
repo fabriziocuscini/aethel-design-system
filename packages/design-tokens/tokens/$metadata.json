@@ -6,6 +6,7 @@
     "foundation/cursors",
     "foundation/durations",
     "foundation/easings",
+    "foundation/sizes",
     "foundation/spacing",
     "foundation/z-index"
   ]
