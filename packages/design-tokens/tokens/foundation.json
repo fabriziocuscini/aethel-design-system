@@ -333,6 +333,33 @@
       "$description": "Slowest speed for very deliberate transitions and dramatic effects"
     }
   },
+  "easings": {
+    "default": {
+      "$type": "string",
+      "$value": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "$description": "Default easing for smooth, natural transitions and animations"
+    },
+    "linear": {
+      "$type": "string",
+      "$value": "linear",
+      "$description": "Linear easing for constant speed and minimal acceleration"
+    },
+    "ease-in": {
+      "$type": "string",
+      "$value": "cubic-bezier(0.4, 0, 1, 1)",
+      "$description": "Easing that starts slow and accelerates to full speed"
+    },
+    "ease-out": {
+      "$type": "string",
+      "$value": "cubic-bezier(0, 0, 0.2, 1)",
+      "$description": "Easing that starts fast and slows down to a stop"
+    },
+    "ease-in-out": {
+      "$type": "string",
+      "$value": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "$description": "Easing that starts slow, accelerates, and then slows down to a stop"
+    }
+  },
   "spacing": {
     "unit": {
       "1": {
