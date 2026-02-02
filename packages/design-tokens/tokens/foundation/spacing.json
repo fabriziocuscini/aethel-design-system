@@ -1,0 +1,104 @@
+{
+  "spacing": {
+    "half": {
+      "$type": "dimension",
+      "$value": "0.125rem",
+      "$description": "1/2 Base unit for spacing, 2px"
+    },
+    "1": {
+      "$type": "dimension",
+      "$value": "0.25rem",
+      "$description": "Base unit for spacing, 4px"
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "0.5rem",
+      "$description": "2x Base unit for spacing, 8px"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "0.75rem",
+      "$description": "3x Base unit for spacing, 12px"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "1rem",
+      "$description": "4x Base unit for spacing, 16px"
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "1.25rem",
+      "$description": "5x Base unit for spacing, 20px"
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "1.5rem",
+      "$description": "6x Base unit for spacing, 24px"
+    },
+    "7": {
+      "$type": "dimension",
+      "$value": "1.75rem",
+      "$description": "7x Base unit for spacing, 28px"
+    },
+    "8": {
+      "$type": "dimension",
+      "$value": "2rem",
+      "$description": "8x Base unit for spacing, 32px"
+    },
+    "9": {
+      "$type": "dimension",
+      "$value": "2.25rem",
+      "$description": "9x Base unit for spacing, 36px"
+    },
+    "10": {
+      "$type": "dimension",
+      "$value": "2.5rem",
+      "$description": "10x Base unit for spacing, 40px"
+    },
+    "11": {
+      "$type": "dimension",
+      "$value": "2.75rem",
+      "$description": "11x Base unit for spacing, 44px"
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": "3rem",
+      "$description": "12x Base unit for spacing, 48px"
+    },
+    "14": {
+      "$type": "dimension",
+      "$value": "3.5rem",
+      "$description": "14x Base unit for spacing, 56px"
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": "4rem",
+      "$description": "16x Base unit for spacing, 64px"
+    },
+    "20": {
+      "$type": "dimension",
+      "$value": "5rem",
+      "$description": "20x Base unit for spacing, 80px"
+    },
+    "24": {
+      "$type": "dimension",
+      "$value": "6rem",
+      "$description": "24x Base unit for spacing, 96px"
+    },
+    "28": {
+      "$type": "dimension",
+      "$value": "7rem",
+      "$description": "28x Base unit for spacing, 112px"
+    },
+    "30": {
+      "$type": "dimension",
+      "$value": "8rem",
+      "$description": "30x Base unit for spacing, 120px"
+    },
+    "32": {
+      "$type": "dimension",
+      "$value": "8rem",
+      "$description": "32x Base unit for spacing, 128px"
+    }
+  }
+}

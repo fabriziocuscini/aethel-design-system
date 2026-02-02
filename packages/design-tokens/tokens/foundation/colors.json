@@ -1,0 +1,220 @@
+{
+  "colors": {
+    "common": {
+      "white": {
+        "transparent": {
+          "$type": "color",
+          "$value": "#ffffff00",
+          "$description": "White, fully transparent (0%)"
+        },
+        "a5": {
+          "$type": "color",
+          "$value": "#ffffff0d",
+          "$description": "White with very low opacity (5%)"
+        },
+        "a10": {
+          "$type": "color",
+          "$value": "#ffffff1a",
+          "$description": "White with very low opacity (10%)"
+        },
+        "a15": {
+          "$type": "color",
+          "$value": "#ffffff26",
+          "$description": "White with low opacity (15%)"
+        },
+        "a20": {
+          "$type": "color",
+          "$value": "#ffffff33",
+          "$description": "White with low opacity (20%)"
+        },
+        "a25": {
+          "$type": "color",
+          "$value": "#ffffff40",
+          "$description": "White with low-medium opacity (25%)"
+        },
+        "a30": {
+          "$type": "color",
+          "$value": "#ffffff4d",
+          "$description": "White with low-medium opacity (30%)"
+        },
+        "a35": {
+          "$type": "color",
+          "$value": "#ffffff59",
+          "$description": "White with low-medium opacity (35%)"
+        },
+        "a40": {
+          "$type": "color",
+          "$value": "#ffffff66",
+          "$description": "White with medium opacity (40%)"
+        },
+        "a45": {
+          "$type": "color",
+          "$value": "#ffffff73",
+          "$description": "White with medium opacity (45%)"
+        },
+        "a50": {
+          "$type": "color",
+          "$value": "#ffffff80",
+          "$description": "White with medium opacity (50%)"
+        },
+        "a55": {
+          "$type": "color",
+          "$value": "#ffffff8c",
+          "$description": "White with medium-high opacity (55%)"
+        },
+        "a60": {
+          "$type": "color",
+          "$value": "#ffffff99",
+          "$description": "White with medium-high opacity (60%)"
+        },
+        "a65": {
+          "$type": "color",
+          "$value": "#ffffffa6",
+          "$description": "White with medium-high opacity (65%)"
+        },
+        "a70": {
+          "$type": "color",
+          "$value": "#ffffffb3",
+          "$description": "White with high opacity (70%)"
+        },
+        "a75": {
+          "$type": "color",
+          "$value": "#ffffffbf",
+          "$description": "White with high opacity (75%)"
+        },
+        "a80": {
+          "$type": "color",
+          "$value": "#ffffffcc",
+          "$description": "White with high opacity (80%)"
+        },
+        "a85": {
+          "$type": "color",
+          "$value": "#ffffffd9",
+          "$description": "White with very high opacity (85%)"
+        },
+        "a90": {
+          "$type": "color",
+          "$value": "#ffffffe6",
+          "$description": "White with very high opacity (90%)"
+        },
+        "a95": {
+          "$type": "color",
+          "$value": "#fffffff2",
+          "$description": "White with very high opacity (95%)"
+        },
+        "solid": {
+          "$type": "color",
+          "$value": "#ffffff",
+          "$description": "Pure White, fully opaque (100%)"
+        }
+      },
+      "black": {
+        "transparent": {
+          "$type": "color",
+          "$value": "#00000000",
+          "$description": "Black, fully transparent (0%)"
+        },
+        "a5": {
+          "$type": "color",
+          "$value": "#0000000d",
+          "$description": "Black with very low opacity (5%)"
+        },
+        "a10": {
+          "$type": "color",
+          "$value": "#0000001a",
+          "$description": "Black with very low opacity (10%)"
+        },
+        "a15": {
+          "$type": "color",
+          "$value": "#00000026",
+          "$description": "Black with low opacity (15%)"
+        },
+        "a20": {
+          "$type": "color",
+          "$value": "#00000033",
+          "$description": "Black with low opacity (20%)"
+        },
+        "a25": {
+          "$type": "color",
+          "$value": "#00000040",
+          "$description": "Black with low-medium opacity (25%)"
+        },
+        "a30": {
+          "$type": "color",
+          "$value": "#0000004d",
+          "$description": "Black with low-medium opacity (30%)"
+        },
+        "a35": {
+          "$type": "color",
+          "$value": "#00000059",
+          "$description": "Black with low-medium opacity (35%)"
+        },
+        "a40": {
+          "$type": "color",
+          "$value": "#00000066",
+          "$description": "Black with medium opacity (40%)"
+        },
+        "a45": {
+          "$type": "color",
+          "$value": "#00000073",
+          "$description": "Black with medium opacity (45%)"
+        },
+        "a50": {
+          "$type": "color",
+          "$value": "#00000080",
+          "$description": "Black with medium opacity (50%)"
+        },
+        "a55": {
+          "$type": "color",
+          "$value": "#0000008c",
+          "$description": "Black with medium-high opacity (55%)"
+        },
+        "a60": {
+          "$type": "color",
+          "$value": "#00000099",
+          "$description": "Black with medium-high opacity (60%)"
+        },
+        "a65": {
+          "$type": "color",
+          "$value": "#000000a6",
+          "$description": "Black with medium-high opacity (65%)"
+        },
+        "a70": {
+          "$type": "color",
+          "$value": "#000000b3",
+          "$description": "Black with high opacity (70%)"
+        },
+        "a75": {
+          "$type": "color",
+          "$value": "#000000bf",
+          "$description": "Black with high opacity (75%)"
+        },
+        "a80": {
+          "$type": "color",
+          "$value": "#000000cc",
+          "$description": "Black with high opacity (80%)"
+        },
+        "a85": {
+          "$type": "color",
+          "$value": "#000000d9",
+          "$description": "Black with very high opacity (85%)"
+        },
+        "a90": {
+          "$type": "color",
+          "$value": "#000000e6",
+          "$description": "Black with very high opacity (90%)"
+        },
+        "a95": {
+          "$type": "color",
+          "$value": "#000000f2",
+          "$description": "Black with very high opacity (95%)"
+        },
+        "solid": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Pure Black, fully opaque (100%)"
+        }
+      }
+    }
+  }
+}

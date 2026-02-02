@@ -1,5 +1,12 @@
 {
   "tokenSetOrder": [
-    "foundation"
+    "foundation/blurs",
+    "foundation/breakpoints",
+    "foundation/colors",
+    "foundation/cursors",
+    "foundation/durations",
+    "foundation/easings",
+    "foundation/spacing",
+    "foundation/z-index"
   ]
 }
