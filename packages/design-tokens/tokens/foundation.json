@@ -31,6 +31,53 @@
       "$description": "Extra large blur for strong softness on glass morphism effects, heavy overlays, or dramatic depth"
     }
   },
+  "cursors": {
+    "link": {
+      "$type": "other",
+      "$value": "pointer",
+      "$description": "Cursor for link elements that navigate to another page or location"
+    },
+    "radio": {
+      "$type": "other",
+      "$value": "default",
+      "$description": "Cursor for radio button and radio card components"
+    },
+    "button": {
+      "$type": "other",
+      "$value": "default",
+      "$description": "Cursor for buttons and other clickable button elements"
+    },
+    "switch": {
+      "$type": "other",
+      "$value": "default",
+      "$description": "Cursor for switch toggle components"
+    },
+    "checkbox": {
+      "$type": "other",
+      "$value": "default",
+      "$description": "Cursor for checkbox and checkbox card components"
+    },
+    "disabled": {
+      "$type": "other",
+      "$value": "not-allowed",
+      "$description": "Cursor for disabled interactive elements to indicate they are not clickable"
+    },
+    "menu-item": {
+      "$type": "other",
+      "$value": "default",
+      "$description": "Cursor for menu item and menu option items in dropdown and context menus"
+    },
+    "slider-thumb": {
+      "$type": "other",
+      "$value": "grab",
+      "$description": "Cursor for slider thumb when hovering, indicating it can be grabbed and dragged"
+    },
+    "slider-thumb-active": {
+      "$type": "other",
+      "$value": "grabbing",
+      "$description": "Cursor for slider thumb when actively being dragged"
+    }
+  },
   "spacing": {
     "unit": {
       "1": {
