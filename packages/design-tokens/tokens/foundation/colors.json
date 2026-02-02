@@ -194,6 +194,103 @@
         "$description": "Gray 950 - Darkest"
       }
     },
+    "sand": {
+      "50": {
+        "$type": "color",
+        "$value": "#fafaf8",
+        "$description": "Sand 50 - Lightest"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f5f5f3",
+        "$description": "Sand 100"
+      },
+      "150": {
+        "$type": "color",
+        "$value": "#ededeb",
+        "$description": "Sand 150"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e5e5e2",
+        "$description": "Sand 200"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "#ddddda",
+        "$description": "Sand 250"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d4d4d1",
+        "$description": "Sand 300"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "#babab6",
+        "$description": "Sand 350"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a1a19b",
+        "$description": "Sand 400"
+      },
+      "450": {
+        "$type": "color",
+        "$value": "#8a8a83",
+        "$description": "Sand 450"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#8d8d86",
+        "$description": "Sand 500"
+      },
+      "550": {
+        "$type": "color",
+        "$value": "#63635d",
+        "$description": "Sand 550"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#53534d",
+        "$description": "Sand 600"
+      },
+      "650": {
+        "$type": "color",
+        "$value": "#494944",
+        "$description": "Sand 650"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#40403b",
+        "$description": "Sand 700"
+      },
+      "750": {
+        "$type": "color",
+        "$value": "#33332f",
+        "$description": "Sand 750"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#262622",
+        "$description": "Sand 800"
+      },
+      "850": {
+        "$type": "color",
+        "$value": "#1f1f1b",
+        "$description": "Sand 850"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#171714",
+        "$description": "Sand 900"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#0a0a08",
+        "$description": "Sand 950 - Darkest"
+      }
+    },
     "common": {
       "white": {
         "transparent": {
