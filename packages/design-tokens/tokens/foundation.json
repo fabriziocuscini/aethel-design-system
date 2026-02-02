@@ -78,6 +78,43 @@
       "$description": "Cursor for slider thumb when actively being dragged"
     }
   },
+  "durations": {
+    "fastest": {
+      "$type": "number",
+      "$value": "50",
+      "$description": "Fastest speed for instant feedback and micro-interactions"
+    },
+    "faster": {
+      "$type": "number",
+      "$value": "100",
+      "$description": "Faster speed for quick transitions and hover effects"
+    },
+    "fast": {
+      "$type": "number",
+      "$value": "150",
+      "$description": "Fast speed for snappy transitions on interactive elements"
+    },
+    "normal": {
+      "$type": "number",
+      "$value": "200",
+      "$description": "Normal (default) speed for standard transitions and animations"
+    },
+    "slow": {
+      "$type": "number",
+      "$value": "300",
+      "$description": "Slow speed for more noticeable transitions and emphasis"
+    },
+    "slower": {
+      "$type": "number",
+      "$value": "400",
+      "$description": "Slower speed for deliberate transitions and prominent animations"
+    },
+    "slowest": {
+      "$type": "number",
+      "$value": "500",
+      "$description": "Slowest speed for very deliberate transitions and dramatic effects"
+    }
+  },
   "spacing": {
     "unit": {
       "1": {
