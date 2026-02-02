@@ -97,5 +97,67 @@
         "$value": "16px"
       }
     }
+  },
+  "z-index": {
+    "hide": {
+      "$type": "number",
+      "$value": "-1",
+      "$description": "Z-index for elements that should be hidden behind other content"
+    },
+    "base": {
+      "$type": "number",
+      "$value": "0",
+      "$description": "Default z-index for normal content and base layer elements"
+    },
+    "docked": {
+      "$type": "number",
+      "$value": "10",
+      "$description": "Z-index for fixed or docked elements like sidebars, headers, or navigation bars"
+    },
+    "dropdown": {
+      "$type": "number",
+      "$value": "1000",
+      "$description": "Z-index for dropdown menus and select components"
+    },
+    "sticky": {
+      "$type": "number",
+      "$value": "1100",
+      "$description": "Z-index for sticky positioned elements that need to stay visible while scrolling"
+    },
+    "banner": {
+      "$type": "number",
+      "$value": "1200",
+      "$description": "Z-index for banner notifications and alert bars"
+    },
+    "overlay": {
+      "$type": "number",
+      "$value": "1300",
+      "$description": "Z-index for overlay backgrounds and backdrop elements"
+    },
+    "modal": {
+      "$type": "number",
+      "$value": "1400",
+      "$description": "Z-index for modal dialogs and dialog overlays"
+    },
+    "popover": {
+      "$type": "number",
+      "$value": "1500",
+      "$description": "Z-index for popover components and floating content panels"
+    },
+    "skipLink": {
+      "$type": "number",
+      "$value": "1600",
+      "$description": "Z-index for skip navigation links, ensuring accessibility links appear above all content"
+    },
+    "toast": {
+      "$type": "number",
+      "$value": "1700",
+      "$description": "Z-index for toast notifications and temporary message displays"
+    },
+    "tooltip": {
+      "$type": "number",
+      "$value": "1800",
+      "$description": "Z-index for tooltip components, ensuring they appear above all other UI elements"
+    }
   }
 }
