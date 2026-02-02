@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "latest",
+    "chroma-js": "^3.2.0",
     "turbo": "latest",
     "typescript": "latest"
   },
