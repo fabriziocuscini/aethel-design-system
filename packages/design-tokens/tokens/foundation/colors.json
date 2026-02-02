@@ -1,110 +1,197 @@
 {
   "colors": {
     "stone": {
-      "0": {
-        "$type": "color",
-        "$value": "#ffffff",
-        "$description": "Stone color, no intensity (White)"
-      },
       "50": {
         "$type": "color",
         "$value": "#fafaf9",
-        "$description": "Stone color, 50/1000 intensity (Lightest)"
+        "$description": "Gray 50 - Lightest"
       },
       "100": {
         "$type": "color",
         "$value": "#f5f5f4",
-        "$description": "Stone color, 100/1000 intensity"
+        "$description": "Gray 100"
       },
       "150": {
         "$type": "color",
         "$value": "#eeedec",
-        "$description": "Stone color, 150/1000 intensity"
+        "$description": "Gray 150"
       },
       "200": {
         "$type": "color",
         "$value": "#e7e5e4",
-        "$description": "Stone color, 200/1000 intensity"
+        "$description": "Gray 200"
       },
       "250": {
         "$type": "color",
         "$value": "#dedcda",
-        "$description": "Stone color, 250/1000 intensity"
+        "$description": "Gray 250"
       },
       "300": {
         "$type": "color",
         "$value": "#d6d3d1",
-        "$description": "Stone color, 300/1000 intensity"
+        "$description": "Gray 300"
       },
       "350": {
         "$type": "color",
         "$value": "#beb9b6",
-        "$description": "Stone color, 350/1000 intensity"
+        "$description": "Gray 350"
       },
       "400": {
         "$type": "color",
         "$value": "#a6a09b",
-        "$description": "Stone color, 400/1000 intensity"
+        "$description": "Gray 400"
       },
       "450": {
         "$type": "color",
         "$value": "#8f8883",
-        "$description": "Stone color, 450/1000 intensity"
+        "$description": "Gray 450"
       },
       "500": {
         "$type": "color",
         "$value": "#79716b",
-        "$description": "Stone color, 500/1000 intensity"
+        "$description": "Gray 500"
       },
       "550": {
         "$type": "color",
         "$value": "#68625c",
-        "$description": "Stone color, 550/1000 intensity"
+        "$description": "Gray 550"
       },
       "600": {
         "$type": "color",
         "$value": "#57534d",
-        "$description": "Stone color, 600/1000 intensity"
+        "$description": "Gray 600"
       },
       "650": {
         "$type": "color",
         "$value": "#4d4944",
-        "$description": "Stone color, 650/1000 intensity"
+        "$description": "Gray 650"
       },
       "700": {
         "$type": "color",
         "$value": "#44403b",
-        "$description": "Stone color, 700/1000 intensity"
+        "$description": "Gray 700"
       },
       "750": {
         "$type": "color",
         "$value": "#36322f",
-        "$description": "Stone color, 750/1000 intensity"
+        "$description": "Gray 750"
       },
       "800": {
         "$type": "color",
         "$value": "#292524",
-        "$description": "Stone color, 800/1000 intensity"
+        "$description": "Gray 800"
       },
       "850": {
         "$type": "color",
         "$value": "#221f1d",
-        "$description": "Stone color, 850/1000 intensity"
+        "$description": "Gray 850"
       },
       "900": {
         "$type": "color",
         "$value": "#1c1917",
-        "$description": "Stone color, 900/1000 intensity"
+        "$description": "Gray 900"
       },
       "950": {
         "$type": "color",
         "$value": "#0c0a09",
-        "$description": "Stone color, 950/1000 intensity (Darkest)"
-      },
-      "1000": {
+        "$description": "Gray 950 - Darkest"
+      }
+    },
+    "gray": {
+      "50": {
         "$type": "color",
-        "$value": "#000000",
-        "$description": "Stone color, full intensity (Black)"
+        "$value": "#fafafa",
+        "$description": "Gray 50 - Lightest"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f5f5f5",
+        "$description": "Gray 100"
+      },
+      "150": {
+        "$type": "color",
+        "$value": "#ededed",
+        "$description": "Gray 150"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e5e5e5",
+        "$description": "Gray 200"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "#dcdcdc",
+        "$description": "Gray 250"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d4d4d4",
+        "$description": "Gray 300"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "#bababa",
+        "$description": "Gray 350"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a1a1a1",
+        "$description": "Gray 400"
+      },
+      "450": {
+        "$type": "color",
+        "$value": "#8a8a8a",
+        "$description": "Gray 450"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#737373",
+        "$description": "Gray 500"
+      },
+      "550": {
+        "$type": "color",
+        "$value": "#626262",
+        "$description": "Gray 550"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#525252",
+        "$description": "Gray 600"
+      },
+      "650": {
+        "$type": "color",
+        "$value": "#494949",
+        "$description": "Gray 650"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#404040",
+        "$description": "Gray 700"
+      },
+      "750": {
+        "$type": "color",
+        "$value": "#333333",
+        "$description": "Gray 750"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#262626",
+        "$description": "Gray 800"
+      },
+      "850": {
+        "$type": "color",
+        "$value": "#1e1e1e",
+        "$description": "Gray 850"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#171717",
+        "$description": "Gray 900"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#0a0a0a",
+        "$description": "Gray 950 - Darkest"
       }
     },
     "common": {
