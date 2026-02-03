@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
+    "colorScheme/light",
+    "colorScheme/dark",
+    "semantic/spacing",
     "foundation/blurs",
     "foundation/breakpoints",
     "foundation/colors",
@@ -10,7 +13,6 @@
     "foundation/sizes",
     "foundation/spacing",
     "foundation/typography",
-    "foundation/z-index",
-    "semantic/spacing"
+    "foundation/z-index"
   ]
 }

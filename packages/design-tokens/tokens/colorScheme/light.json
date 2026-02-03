@@ -1,0 +1,16 @@
+{
+  "common": {
+    "white": {
+      "$type": "color",
+      "$value": "{colors.common.white.solid}"
+    },
+    "black": {
+      "$type": "color",
+      "$value": "{colors.common.black.solid}"
+    },
+    "transparent": {
+      "$type": "color",
+      "$value": "{colors.common.white.transparent}"
+    }
+  }
+}
