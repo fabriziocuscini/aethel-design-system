@@ -30,28 +30,28 @@
     "component": {
       "xs": {
         "$type": "dimension",
-        "$value": "{spacing.1}",
-        "$description": "Tight component padding"
+        "$value": "{spacing.2}",
+        "$description": "Extra small padding for tight components"
       },
       "sm": {
         "$type": "dimension",
-        "$value": "{spacing.2}",
-        "$description": "Compact components"
+        "$value": "{spacing.3}",
+        "$description": "Small padding for compact components"
       },
       "md": {
         "$type": "dimension",
-        "$value": "{spacing.3}",
-        "$description": "Default internal spacing"
+        "$value": "{spacing.4}",
+        "$description": "Default medium padding"
       },
       "lg": {
         "$type": "dimension",
-        "$value": "{spacing.4}",
-        "$description": "Comfortable padding"
+        "$value": "{spacing.6}",
+        "$description": "Comfortable padding with large padding"
       },
       "xl": {
         "$type": "dimension",
-        "$value": "{spacing.6}",
-        "$description": "Generous internal spacing"
+        "$value": "{spacing.8}",
+        "$description": "Generous padding with extra large padding"
       }
     },
     "inline": {
