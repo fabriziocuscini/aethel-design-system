@@ -1,0 +1,79 @@
+{
+  "fontSizes": {
+    "4xs": {
+      "$type": "fontSizes",
+      "$value": "0.625rem",
+      "$description": "Extra extra extra extra small size for captions, fine print, or compact labels"
+    },
+    "3xs": {
+      "$type": "fontSizes",
+      "$value": "0.6875rem",
+      "$description": "Extra extra extra small size for small captions, helper text, or tight spaces"
+    },
+    "2xs": {
+      "$type": "fontSizes",
+      "$value": "0.75rem",
+      "$description": "Extra extra small size for captions, metadata, or secondary information"
+    },
+    "xs": {
+      "$type": "fontSizes",
+      "$value": "0.8125rem",
+      "$description": "Extra small size for compact body text, labels, or UI elements"
+    },
+    "sm": {
+      "$type": "fontSizes",
+      "$value": "0.875rem",
+      "$description": "Small size for compact body text, labels, or UI elements"
+    },
+    "md": {
+      "$type": "fontSizes",
+      "$value": "1rem",
+      "$description": "Medium (default) size for standard body text and regular content"
+    },
+    "lg": {
+      "$type": "fontSizes",
+      "$value": "1.125rem",
+      "$description": "Large size for emphasized body text or small headings"
+    },
+    "xl": {
+      "$type": "fontSizes",
+      "$value": "1.25rem",
+      "$description": "Extra large size for subheadings or prominent text"
+    },
+    "2xl": {
+      "$type": "fontSizes",
+      "$value": "1.5rem",
+      "$description": "Extra extra large size for section headings or important titles"
+    },
+    "3xl": {
+      "$type": "fontSizes",
+      "$value": "2rem",
+      "$description": "Extra extra extra large size for page headings or display text"
+    },
+    "4xl": {
+      "$type": "fontSizes",
+      "$value": "2.5rem",
+      "$description": "Extra extra extra extra large size for hero headings or large display text"
+    },
+    "5xl": {
+      "$type": "fontSizes",
+      "$value": "3rem",
+      "$description": "Extra extra extra extra extra large size for prominent hero text or maximum impact"
+    },
+    "6xl": {
+      "$type": "fontSizes",
+      "$value": "4rem",
+      "$description": "Extra extra extra extra extra extra large size for dramatic hero text or maximum impact"
+    },
+    "7xl": {
+      "$type": "fontSizes",
+      "$value": "5rem",
+      "$description": "Extra extra extra extra extra extra extra large size for dramatic hero text or maximum impact"
+    },
+    "8xl": {
+      "$type": "fontSizes",
+      "$value": "8rem",
+      "$description": "Extra extra extra extra extra extra extra extra large size for dramatic hero text or maximum impact"
+    }
+  }
+}
