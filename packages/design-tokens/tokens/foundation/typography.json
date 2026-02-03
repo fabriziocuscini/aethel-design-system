@@ -1,0 +1,204 @@
+{
+  "typography": {
+    "fonts": {
+      "serif": {
+        "$type": "fontFamilies",
+        "$value": "\"Playfair Display\", Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "$description": "Serif font family for headings and display text"
+      },
+      "sansSerif": {
+        "$type": "fontFamilies",
+        "$value": "\"Inter Tight\", Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "$description": "Sans-serif font family for body, UI headings and regular content"
+      },
+      "mono": {
+        "$type": "fontFamilies",
+        "$value": "\"Geist Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "$description": "Monospace font family for code and technical content (e.g. code blocks, inline code)"
+      }
+    },
+    "fontSizes": {
+      "4xs": {
+        "$type": "fontSizes",
+        "$value": "0.625rem",
+        "$description": "Extra extra extra extra small size for captions, fine print, or compact labels"
+      },
+      "3xs": {
+        "$type": "fontSizes",
+        "$value": "0.6875rem",
+        "$description": "Extra extra extra small size for small captions, helper text, or tight spaces"
+      },
+      "2xs": {
+        "$type": "fontSizes",
+        "$value": "0.75rem",
+        "$description": "Extra extra small size for captions, metadata, or secondary information"
+      },
+      "xs": {
+        "$type": "fontSizes",
+        "$value": "0.8125rem",
+        "$description": "Extra small size for compact body text, labels, or UI elements"
+      },
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "0.875rem",
+        "$description": "Small size for compact body text, labels, or UI elements"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "1rem",
+        "$description": "Medium (default) size for standard body text and regular content"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "1.125rem",
+        "$description": "Large size for emphasized body text or small headings"
+      },
+      "xl": {
+        "$type": "fontSizes",
+        "$value": "1.25rem",
+        "$description": "Extra large size for subheadings or prominent text"
+      },
+      "2xl": {
+        "$type": "fontSizes",
+        "$value": "1.5rem",
+        "$description": "Extra extra large size for section headings or important titles"
+      },
+      "3xl": {
+        "$type": "fontSizes",
+        "$value": "2rem",
+        "$description": "Extra extra extra large size for page headings or display text"
+      },
+      "4xl": {
+        "$type": "fontSizes",
+        "$value": "2.5rem",
+        "$description": "Extra extra extra extra large size for hero headings or large display text"
+      },
+      "5xl": {
+        "$type": "fontSizes",
+        "$value": "3rem",
+        "$description": "Extra extra extra extra extra large size for prominent hero text or maximum impact"
+      },
+      "6xl": {
+        "$type": "fontSizes",
+        "$value": "4rem",
+        "$description": "Extra extra extra extra extra extra large size for dramatic hero text or maximum impact"
+      },
+      "7xl": {
+        "$type": "fontSizes",
+        "$value": "5rem",
+        "$description": "Extra extra extra extra extra extra extra large size for dramatic hero text or maximum impact"
+      },
+      "8xl": {
+        "$type": "fontSizes",
+        "$value": "8rem",
+        "$description": "Extra extra extra extra extra extra extra extra large size for dramatic hero text or maximum impact"
+      }
+    },
+    "fontWeights": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": 100,
+        "$description": "Thin font weight (100)"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": 200,
+        "$description": "Extra light font weight (200)"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": 300,
+        "$description": "Light font weight (300)"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": 400,
+        "$description": "Regular (default) font weight (400)"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": 500,
+        "$description": "Medium font weight (500)"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": 600,
+        "$description": "Semi-bold font weight (600)"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": 700,
+        "$description": "Bold font weight (700)"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": 800,
+        "$description": "Extra bold font weight (800)"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": 900,
+        "$description": "Black font weight (900)"
+      }
+    },
+    "lineHeights": {
+      "shorter": {
+        "$type": "lineHeights",
+        "$value": 1.2,
+        "$description": "Shorter line height for compact text"
+      },
+      "short": {
+        "$type": "lineHeights",
+        "$value": 1.3,
+        "$description": "Short line height for tight text"
+      },
+      "moderate": {
+        "$type": "lineHeights",
+        "$value": 1.4,
+        "$description": "Moderate line height for standard body text"
+      },
+      "tall": {
+        "$type": "lineHeights",
+        "$value": 1.5,
+        "$description": "Tall line height for spacious text"
+      },
+      "taller": {
+        "$type": "lineHeights",
+        "$value": 1.6,
+        "$description": "Taller line height for very spacious text"
+      }
+    },
+    "letterSpacing": {
+      "tighter": {
+        "$type": "letterSpacing",
+        "$value": "-0.05em",
+        "$description": "Tighter letter spacing for compact text"
+      },
+      "tight": {
+        "$type": "letterSpacing",
+        "$value": "-0.025em",
+        "$description": "Tight letter spacing for condensed text"
+      },
+      "normal": {
+        "$type": "letterSpacing",
+        "$value": "0em",
+        "$description": "Normal letter spacing for standard text"
+      },
+      "wide": {
+        "$type": "letterSpacing",
+        "$value": "0.025em",
+        "$description": "Wide letter spacing for expanded text"
+      },
+      "wider": {
+        "$type": "letterSpacing",
+        "$value": "0.05em",
+        "$description": "Wider letter spacing for more expanded text"
+      },
+      "widest": {
+        "$type": "letterSpacing",
+        "$value": "0.1em",
+        "$description": "Widest letter spacing for maximum expansion"
+      }
+    }
+  }
+}
