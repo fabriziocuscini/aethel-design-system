@@ -11,9 +11,10 @@
       "foundation/durations": "enabled",
       "foundation/easings": "enabled",
       "foundation/spacing": "enabled",
-      "foundation/z-index": "enabled"
+      "foundation/z-index": "enabled",
+      "foundation/sizes": "enabled",
+      "foundation/radii": "enabled"
     },
-    "group": "Foundation",
     "$figmaCollectionId": "VariableCollectionId:17:400",
     "$figmaModeId": "17:18",
     "$figmaVariableReferences": {
@@ -112,6 +113,7 @@
       "z-index.skipLink": "16931ebc8bfc4fa187d7ff02f39c104668c0d9c3",
       "z-index.toast": "2950792c0a608546de52b3f78ac3b71d2484a34c",
       "z-index.tooltip": "850a72f1892857e3a8d4025bbed9a60e35b9feb3"
-    }
+    },
+    "group": "Foundation"
   }
 ]
