@@ -3,109 +3,109 @@
     "layout": {
       "xs": {
         "$type": "dimension",
-        "$value": "{spacing.4}",
-        "$description": "Tight section gaps (16px)"
+        "$value": "{spacing.2}",
+        "$description": "Tight section gaps"
       },
       "sm": {
         "$type": "dimension",
-        "$value": "{spacing.6}",
-        "$description": "Default grid column gaps (24px)"
+        "$value": "{spacing.3}",
+        "$description": "Default grid column gaps"
       },
       "md": {
         "$type": "dimension",
-        "$value": "{spacing.8}",
-        "$description": "Standard section spacing (32px)"
+        "$value": "{spacing.4}",
+        "$description": "Standard section spacing"
       },
       "lg": {
         "$type": "dimension",
-        "$value": "{spacing.12}",
-        "$description": "Generous section spacing (48px)"
+        "$value": "{spacing.6}",
+        "$description": "Generous section spacing"
       },
       "xl": {
         "$type": "dimension",
-        "$value": "{spacing.16}",
-        "$description": "Large section breaks (64px)"
-      },
-      "2xl": {
-        "$type": "dimension",
-        "$value": "{spacing.24}",
-        "$description": "Major page sections (96px)"
+        "$value": "{spacing.8}",
+        "$description": "Large section breaks"
       }
     },
     "component": {
       "xs": {
         "$type": "dimension",
         "$value": "{spacing.1}",
-        "$description": "Tight component padding (4px)"
+        "$description": "Tight component padding"
       },
       "sm": {
         "$type": "dimension",
         "$value": "{spacing.2}",
-        "$description": "Compact components (8px)"
+        "$description": "Compact components"
       },
       "md": {
         "$type": "dimension",
         "$value": "{spacing.3}",
-        "$description": "Default internal spacing (12px)"
+        "$description": "Default internal spacing"
       },
       "lg": {
         "$type": "dimension",
         "$value": "{spacing.4}",
-        "$description": "Comfortable padding (16px)"
+        "$description": "Comfortable padding"
       },
       "xl": {
         "$type": "dimension",
         "$value": "{spacing.6}",
-        "$description": "Generous internal spacing (24px)"
+        "$description": "Generous internal spacing"
       }
     },
     "inline": {
       "xs": {
         "$type": "dimension",
         "$value": "{spacing.half}",
-        "$description": "Minimal inline gap (2px)"
+        "$description": "Minimal inline gap"
       },
       "sm": {
         "$type": "dimension",
         "$value": "{spacing.1}",
-        "$description": "Tight inline elements (4px)"
+        "$description": "Tight inline elements"
       },
       "md": {
         "$type": "dimension",
         "$value": "{spacing.2}",
-        "$description": "Default icon-text gap (8px)"
+        "$description": "Default icon-text gap"
       },
       "lg": {
         "$type": "dimension",
         "$value": "{spacing.3}",
-        "$description": "Spacious inline elements (12px)"
+        "$description": "Spacious inline elements"
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": "{spacing.4}",
+        "$description": "Maximum inline gap"
       }
     },
     "stack": {
       "xs": {
         "$type": "dimension",
         "$value": "{spacing.1}",
-        "$description": "Tight list items (4px)"
+        "$description": "Tight list items"
       },
       "sm": {
         "$type": "dimension",
         "$value": "{spacing.2}",
-        "$description": "Compact form fields (8px)"
+        "$description": "Compact form fields"
       },
       "md": {
         "$type": "dimension",
         "$value": "{spacing.4}",
-        "$description": "Default vertical rhythm (16px)"
+        "$description": "Default vertical rhythm"
       },
       "lg": {
         "$type": "dimension",
         "$value": "{spacing.6}",
-        "$description": "Generous form sections (24px)"
+        "$description": "Generous form sections"
       },
       "xl": {
         "$type": "dimension",
         "$value": "{spacing.8}",
-        "$description": "Major content blocks (32px)"
+        "$description": "Major content blocks"
       }
     }
   }

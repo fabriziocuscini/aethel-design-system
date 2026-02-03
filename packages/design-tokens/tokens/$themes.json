@@ -116,5 +116,15 @@
       "z-index.tooltip": "850a72f1892857e3a8d4025bbed9a60e35b9feb3"
     },
     "group": "Foundation"
+  },
+  {
+    "id": "1fbb23dcba08d0d3837865d4d9969d90e7506877",
+    "name": "Tokens",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/spacing": "enabled"
+    },
+    "group": "Semantic",
+    "$figmaVariableReferences": {}
   }
 ]
