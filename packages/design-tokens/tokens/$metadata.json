@@ -10,6 +10,7 @@
     "foundation/sizes",
     "foundation/spacing",
     "foundation/typography",
-    "foundation/z-index"
+    "foundation/z-index",
+    "semantic/spacing"
   ]
 }
