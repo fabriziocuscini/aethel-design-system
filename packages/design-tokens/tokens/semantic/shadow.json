@@ -1,0 +1,106 @@
+{
+  "shadow": {
+    "elevation-1": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "1px",
+          "blur": "3px",
+          "spread": "0",
+          "color": "{shadows.elevation-1}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "1px",
+          "blur": "2px",
+          "spread": "-1px",
+          "color": "{shadows.elevation-1}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Minimal elevation for cards, subtle raised surfaces, and hover states"
+    },
+    "elevation-2": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "{shadows.elevation-2}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "2px",
+          "blur": "4px",
+          "spread": "-2px",
+          "color": "{shadows.elevation-2}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Low elevation for buttons, chips, and small interactive elements"
+    },
+    "elevation-3": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "4px",
+          "blur": "6px",
+          "spread": "-4px",
+          "color": "{shadows.elevation-3}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "{shadows.elevation-3}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Medium elevation for dropdowns, popovers, tooltips, and floating action buttons"
+    },
+    "elevation-4": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "{shadows.elevation-4}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "8px",
+          "blur": "10px",
+          "spread": "-6px",
+          "color": "{shadows.elevation-4}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "High elevation for modals, drawers, side panels, and sticky headers"
+    },
+    "elevation-5": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "25px",
+          "blur": "50px",
+          "spread": "-12px",
+          "color": "{shadows.elevation-5}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Maximum elevation for critical dialogs, full-screen overlays, and high-priority notifications"
+    }
+  }
+}

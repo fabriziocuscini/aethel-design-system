@@ -11,108 +11,49 @@
     "transparent": {
       "$type": "color",
       "$value": "{colors.common.white.transparent}"
+    },
+    "white-to-black": {
+      "$type": "color",
+      "$value": "{colors.common.white.solid}"
+    },
+    "black-to-white": {
+      "$type": "color",
+      "$value": "{colors.common.black.solid}"
+    },
+    "white-to-dark": {
+      "$type": "color",
+      "$value": "{colors.common.white.solid}"
+    },
+    "light-to-dark": {
+      "$type": "color",
+      "$value": "{colors.gray.100}"
     }
   },
   "shadows": {
-    "xs": {
-      "$type": "boxShadow",
-      "$value": {
-        "x": "0",
-        "y": "1px",
-        "blur": "2px",
-        "spread": "0",
-        "color": "{colors.common.black.a5}",
-        "type": "dropShadow"
-      },
-      "$description": "Minimal depth for hover states, subtle borders, or low-elevation cards"
+    "elevation-1": {
+      "$type": "color",
+      "$value": "{colors.common.black.a10}",
+      "$description": "Shadow colour for minimal elevation"
     },
-    "sm": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "x": "0",
-          "y": "1px",
-          "blur": "3px",
-          "spread": "0",
-          "color": "{colors.common.black.a5}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "1px",
-          "blur": "2px",
-          "spread": "0",
-          "color": "{colors.common.black.a10}",
-          "type": "dropShadow"
-        }
-      ],
-      "$description": "Standard card, panel, or button depth"
+    "elevation-2": {
+      "$type": "color",
+      "$value": "{colors.common.black.a10}",
+      "$description": "Ambient shadow for low elevation"
     },
-    "md": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "x": "0",
-          "y": "4px",
-          "blur": "6px",
-          "spread": "-1px",
-          "color": "{colors.common.black.a5}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "2px",
-          "blur": "4px",
-          "spread": "-1px",
-          "color": "{colors.common.black.a10}",
-          "type": "dropShadow"
-        }
-      ],
-      "$description": "Dropdowns, popovers, floating action buttons"
+    "elevation-3": {
+      "$type": "color",
+      "$value": "{colors.common.black.a10}",
+      "$description": "Ambient shadow for medium elevation"
     },
-    "lg": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "x": "0",
-          "y": "10px",
-          "blur": "15px",
-          "spread": "-3px",
-          "color": "{colors.common.black.a10}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "4px",
-          "blur": "6px",
-          "spread": "-2px",
-          "color": "{colors.common.black.a5}",
-          "type": "dropShadow"
-        }
-      ],
-      "$description": "Modals, drawers, sticky headers"
+    "elevation-4": {
+      "$type": "color",
+      "$value": "{colors.common.black.a10}",
+      "$description": "Ambient shadow for high elevation"
     },
-    "xl": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "x": "0",
-          "y": "20px",
-          "blur": "25px",
-          "spread": "-5px",
-          "color": "{colors.common.black.a15}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "10px",
-          "blur": "10px",
-          "spread": "-5px",
-          "color": "{colors.common.black.a5}",
-          "type": "dropShadow"
-        }
-      ],
-      "$description": "Maximum elevation for critical dialogs, full-screen overlays"
+    "elevation-5": {
+      "$type": "color",
+      "$value": "{colors.common.black.a25}",
+      "$description": "Ambient shadow for maximum elevation"
     }
   }
 }
