@@ -1,0 +1,54 @@
+{
+  "radii": {
+    "none": {
+      "$type": "borderRadius",
+      "$value": "0",
+      "$description": "No border radius for square elements"
+    },
+    "xs": {
+      "$type": "borderRadius",
+      "$value": "0.1875rem",
+      "$description": "Extra small radius for subtle rounding on small elements"
+    },
+    "sm": {
+      "$type": "borderRadius",
+      "$value": "0.25rem",
+      "$description": "Small radius for gentle rounding on compact components"
+    },
+    "md": {
+      "$type": "borderRadius",
+      "$value": "0.375rem",
+      "$description": "Medium radius for standard rounding on most UI elements"
+    },
+    "lg": {
+      "$type": "borderRadius",
+      "$value": "0.5rem",
+      "$description": "Large radius for noticeable rounding on prominent components"
+    },
+    "xl": {
+      "$type": "borderRadius",
+      "$value": "0.75rem",
+      "$description": "Extra large radius for prominent rounding on large elements"
+    },
+    "2xl": {
+      "$type": "borderRadius",
+      "$value": "1rem",
+      "$description": "Very large radius for strong rounding on containers and cards"
+    },
+    "3xl": {
+      "$type": "borderRadius",
+      "$value": "1.5rem",
+      "$description": "Extra extra large radius for very strong rounding on large containers"
+    },
+    "4xl": {
+      "$type": "borderRadius",
+      "$value": "2rem",
+      "$description": "Maximum radius for extremely strong rounding before full circle"
+    },
+    "full": {
+      "$type": "borderRadius",
+      "$value": "9999px",
+      "$description": "Full circle or pill shape for maximum rounding, typically used for badges and buttons"
+    }
+  }
+}
