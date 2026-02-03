@@ -288,7 +288,13 @@
   {
     "id": "645f1c39aadb7461ddbb936c4fbdd01f2e0e2d5c",
     "name": "Light",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "shadows.xs": "S:c2b2ee5c0ec8cec7e6fed6e0b59b68a9005ca578,",
+      "shadows.sm": "S:4d80131d49206277dee85a22db90caa31b921d22,",
+      "shadows.md": "S:c4c9c18d7f441a4922843e2f6ef26d027ff1f51e,",
+      "shadows.lg": "S:dc2eb34e747d9d6d428f8b417fe8fe3b6a105a17,",
+      "shadows.xl": "S:48eaac726ae9ac5f67c1f5be9b6f7ceabfb8a1ed,"
+    },
     "selectedTokenSets": {
       "colorScheme/light": "enabled"
     },
@@ -304,7 +310,13 @@
   {
     "id": "e8653b97fea330e9b45a360f0b1e63116763dc75",
     "name": "Dark",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "shadows.xs": "S:c2b2ee5c0ec8cec7e6fed6e0b59b68a9005ca578,",
+      "shadows.sm": "S:4d80131d49206277dee85a22db90caa31b921d22,",
+      "shadows.md": "S:c4c9c18d7f441a4922843e2f6ef26d027ff1f51e,",
+      "shadows.lg": "S:dc2eb34e747d9d6d428f8b417fe8fe3b6a105a17,",
+      "shadows.xl": "S:48eaac726ae9ac5f67c1f5be9b6f7ceabfb8a1ed,"
+    },
     "selectedTokenSets": {
       "colorScheme/dark": "enabled"
     },

@@ -12,5 +12,107 @@
       "$type": "color",
       "$value": "{colors.common.black.transparent}"
     }
+  },
+  "shadows": {
+    "xs": {
+      "$type": "boxShadow",
+      "$value": {
+        "x": "0",
+        "y": "1px",
+        "blur": "2px",
+        "spread": "0",
+        "color": "{colors.common.black.a20}",
+        "type": "dropShadow"
+      },
+      "$description": "Minimal depth for hover states, subtle borders, or low-elevation cards"
+    },
+    "sm": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "1px",
+          "blur": "3px",
+          "spread": "0",
+          "color": "{colors.common.black.a15}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "2px",
+          "blur": "4px",
+          "spread": "0",
+          "color": "{colors.common.black.a25}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Standard card, panel, or button depth"
+    },
+    "md": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "{colors.common.black.a20}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "2px",
+          "blur": "4px",
+          "spread": "-1px",
+          "color": "{colors.common.black.a30}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Dropdowns, popovers, floating action buttons"
+    },
+    "lg": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "{colors.common.black.a30}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "4px",
+          "blur": "6px",
+          "spread": "-2px",
+          "color": "{colors.common.black.a20}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Modals, drawers, sticky headers"
+    },
+    "xl": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "{colors.common.black.a40}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "10px",
+          "blur": "10px",
+          "spread": "-5px",
+          "color": "{colors.common.black.a20}",
+          "type": "dropShadow"
+        }
+      ],
+      "$description": "Maximum elevation for critical dialogs, full-screen overlays"
+    }
   }
 }
