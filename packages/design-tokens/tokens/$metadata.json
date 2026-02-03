@@ -6,10 +6,10 @@
     "foundation/cursors",
     "foundation/durations",
     "foundation/easings",
-    "foundation/typography",
     "foundation/radii",
     "foundation/sizes",
     "foundation/spacing",
+    "foundation/typography",
     "foundation/z-index"
   ]
 }

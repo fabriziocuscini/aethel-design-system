@@ -13,7 +13,8 @@
       "foundation/spacing": "enabled",
       "foundation/z-index": "enabled",
       "foundation/sizes": "enabled",
-      "foundation/radii": "enabled"
+      "foundation/radii": "enabled",
+      "foundation/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:17:400",
     "$figmaModeId": "17:18",
