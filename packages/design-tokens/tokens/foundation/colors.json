@@ -291,6 +291,103 @@
         "$description": "Sand 950 - Darkest"
       }
     },
+    "sage": {
+      "50": {
+        "$type": "color",
+        "$value": "#f8fbfa",
+        "$description": "Sage 50 - Lightest"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f3f6f5",
+        "$description": "Sage 100"
+      },
+      "150": {
+        "$type": "color",
+        "$value": "#ebeeed",
+        "$description": "Sage 150"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e3e6e5",
+        "$description": "Sage 200"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "#dadedc",
+        "$description": "Sage 250"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d1d5d4",
+        "$description": "Sage 300"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "#b6bcba",
+        "$description": "Sage 350"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#9ca3a0",
+        "$description": "Sage 400"
+      },
+      "450": {
+        "$type": "color",
+        "$value": "#848c89",
+        "$description": "Sage 450"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#7c8481",
+        "$description": "Sage 500"
+      },
+      "550": {
+        "$type": "color",
+        "$value": "#5d6462",
+        "$description": "Sage 550"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#4e5452",
+        "$description": "Sage 600"
+      },
+      "650": {
+        "$type": "color",
+        "$value": "#454b48",
+        "$description": "Sage 650"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#3c413f",
+        "$description": "Sage 700"
+      },
+      "750": {
+        "$type": "color",
+        "$value": "#2f3432",
+        "$description": "Sage 750"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#232726",
+        "$description": "Sage 800"
+      },
+      "850": {
+        "$type": "color",
+        "$value": "#1b201e",
+        "$description": "Sage 850"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#141817",
+        "$description": "Sage 900"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#080b0a",
+        "$description": "Sage 950 - Darkest"
+      }
+    },
     "common": {
       "white": {
         "transparent": {
